@@ -1,0 +1,28 @@
+.main_body_container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 160px;
+  padding-right: 96px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 3em;
+  width:60%;
+}
+.sign_up_button{
+color:black  ;
+background-color: white;
+font-size: 24px;
+border:1px;
+width: 200px;
+height:56px;
+border-radius: 12px;
+margin-top:18px;
+
+}
+.text_line{
+  margin-bottom: 12px;
+}

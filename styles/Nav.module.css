@@ -1,0 +1,81 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 160px;
+  padding-right: 96px;
+}
+.logo {
+  color: white;
+}
+.login {
+  display: flex;
+  align-items: center;
+  font-family: "Prosto One";
+}
+.login_button {
+  width: 260px;
+  height: 56px;
+  background-color: #7834f3;
+  border-radius: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Prosto One;
+}
+.signed_in_wallet {
+  width: 260px;
+  height: 56px;
+  color: white;
+  border-color: white;
+  border-style: solid;
+  border-width:1px;
+  border-radius: 20px;
+
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 100%;
+  padding-left: 1%;
+}
+.wallet_address{
+  border-color: #7834f3;
+ 
+  
+}
+.signed_in {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 360px;
+}
+.sign_out {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sign_out_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  color: #7834f3;
+
+  border-radius: 15px;
+  background-color: white;
+  
+}
+.wallet_logo{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 200px;
+   width: 56px;
+  height: 56px;
+  color: white;
+  border-radius: 15px;
+  background-color: #7834f3;
+}
