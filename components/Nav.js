@@ -12,7 +12,7 @@ import { faCode, faHighlighter } from '@fortawesome/free-solid-svg-icons'
 
 const uauth = new UAuth({
   clientID: '2d1c3334-fe0f-48b4-a635-af406cf595f2',
-  redirectUri: 'http://localhost:3000',
+  redirectUri: 'https://elegant-lolly-a1c0d3.netlify.app/',
   scope: 'openid wallet',
 })
 
